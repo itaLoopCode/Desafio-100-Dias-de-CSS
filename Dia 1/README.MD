@@ -70,9 +70,3 @@
 * **text-transform: uppercase;**: Converte o texto para maiúsculas.
 * **font-weight: 700;**: Define o peso da fonte como negrito.
 * **letter-spacing: .04em;**: Adiciona um espaçamento entre as letras de 0.04em.
-
-**Observações:**
-
-* Este documento é baseado nas classes CSS fornecidas e pode haver interpretações diferentes sobre a funcionalidade exata de cada classe.
-* Seria interessante ter acesso ao HTML para uma documentação mais completa, pois a interação entre as classes e o HTML determina a estrutura visual final.
-* Esta documentação utiliza termos comuns em CSS, mas se você precisar de esclarecimentos sobre algum termo específico, não hesite em perguntar.
