@@ -1,3 +1,5 @@
+<img src='./img/100dias.png'>
+
 ## Documentação do CSS
 
 **Classe principal: .frame**
