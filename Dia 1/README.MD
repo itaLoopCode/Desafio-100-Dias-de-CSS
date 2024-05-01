@@ -28,7 +28,7 @@
 
 **Sub-classes representando segmentos do número:** 
 
-* **.one-one, .one-two, .zero-one, .zero-two**: Todas essas classes provavelmente representam segmentos usados para construir o dígito exibido.
+* **.one-one, .one-two, .zero-one, .zero-two**: Todas essas classes representam segmentos usados para construir o dígito exibido.
     * **position: absolute;**: Posiciona o elemento de forma absoluta dentro do elemento ".number".
     * **z-index:** Define a ordem de empilhamento dos elementos, sendo os valores maiores sobrepostos aos menores. 
     * **top, left:** Define a posição do elemento dentro do elemento ".number".
@@ -37,12 +37,12 @@
     * **border-radius:** Define bordas arredondadas para alguns segmentos.
     * **box-shadow:** Adiciona sombra a alguns segmentos.
 
-* **.one-one:** Provavelmente representa um segmento diagonal.
+* **.one-one:** Representa um segmento diagonal.
     * **transform: rotate(50deg);**: Rotaciona o elemento em 50 graus.
 
-* **.one-two:** Provavelmente representa a linha vertical do dígito "1".
+* **.one-two:** Representa a linha vertical do dígito "1".
 
-* **.zero-one, .zero-two:** Provavelmente representam a circunferência do dígito "0".
+* **.zero-one, .zero-two:** Representam a circunferência do dígito "0".
     * **border: 24px solid #fff;**: Define uma borda branca sólida com espessura de 24px.
     * **box-sizing: border-box;**: Garante que a espessura da borda seja considerada na definição da largura e altura do elemento.
 
